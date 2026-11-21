@@ -1,3 +1,11 @@
+<!-- ================================================== -->
+<!--                 FRANCEZ / PROFILE                  -->
+<!-- ================================================== -->
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10101A,35:25152D,70:40213F,100:17243A&height=180&section=header&animation=fadeIn" />
+</p>
+
 ```text
 ███████╗ ██████╗  █████╗ ███╗   ██╗ ██████╗███████╗███████╗
 ██╔════╝██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔════╝╚════██║
@@ -12,131 +20,394 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=600&lines=UI%2FUX+MAKER;ROBLOX+CREATOR;GAME+DESIGN+%26+VISUAL+IDENTITY;BUILDING+IDEAS+INTO+EXPERIENCES." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=B69BCB&center=true&vCenter=true&width=650&lines=UI%2FUX+MAKER+%2F+ROBLOX+CREATOR;DESIGNING+DIGITAL+EXPERIENCES;GAME+DESIGN+%2F+VISUAL+IDENTITY;TURNING+IDEAS+INTO+INTERFACES." alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <sub>INDEPENDENT CREATIVE — BRAZIL</sub>
+  <samp>INDEPENDENT CREATIVE — BRAZIL</samp>
 </p>
 
 <p align="center">
-  Creating interfaces, shaping digital experiences and exploring new creative directions.
+  Creating interfaces, shaping experiences and exploring the intersection between creativity and technology.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=franceeko&style=flat-square&color=555555&label=PROFILE+VIEWS" />
+  <a href="https://github.com/franceeko">
+    <img src="https://komarev.com/ghpvc/?username=franceeko&style=flat-square&color=6D526F&label=PROFILE+VIEWS" />
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-CREATING-6D526F?style=flat-square" />
 </p>
+
+<br/>
 
 ---
 
-### 01 / ABOUT
+<br/>
 
-I'm Francez, a Brazilian UI/UX Maker focused on creating interfaces and visual experiences for Roblox games.
+<div align="center">
 
-My work combines interface design, visual communication and game design, with an interest in building cohesive experiences that balance aesthetics and usability.
+### 〔 01 — INTRODUCTION 〕
 
-I'm also the founder of **Six Bullets (6B)**, an independent Roblox development studio.
+</div>
 
-```yaml
-name: Francez
-username: franceeko
-location: Brazil
+<br/>
 
-primary_focus:
-  - UI/UX Design
-  - Roblox Interfaces
-  - Game Design
-  - Graphic Design
+I'm **Francez**, a Brazilian UI/UX Maker working primarily within the Roblox ecosystem.
 
-studio: Six Bullets
-```
+My focus is creating interfaces with strong visual identities, thoughtful compositions and functional user experiences.
 
-### 02 / CREATIVE FIELDS
+I enjoy exploring different visual directions, experimenting with design systems and turning concepts into polished digital experiences.
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>01 — UI / UX DESIGN</b>
-      <br/><br/>
-      <sub>Interface design, HUDs, visual hierarchy, usability and design systems.</sub>
-    </td>
-    <td width="50%">
-      <b>02 — GAME DESIGN</b>
-      <br/><br/>
-      <sub>Game concepts, mechanics, player experience and interaction design.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>03 — GRAPHIC DESIGN</b>
-      <br/><br/>
-      <sub>Visual identity, typography, graphic compositions and digital assets.</sub>
-    </td>
-    <td>
-      <b>04 — CREATIVE DEVELOPMENT</b>
-      <br/><br/>
-      <sub>Roblox Studio, interface implementation and creative experimentation.</sub>
-    </td>
-  </tr>
+Currently building alongside **Six Bullets (6B)**, my independent Roblox development studio.
+
+<br/>
+
+<div align="center">
+
+`DESIGN IS A PROCESS. CREATIVITY IS THE DIRECTION.`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 〔 02 — CREATIVE DISCIPLINES 〕
+
+<sub>THE AREAS THAT DEFINE MY WORK</sub>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 01 / UI & UX
+
+Interface composition, visual hierarchy, usability and user experience.
+
+- Game interfaces
+- HUD design
+- Menus & navigation
+- Interface systems
+- Interaction design
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / GAME DESIGN
+
+Creating and shaping interactive experiences.
+
+- Game concepts
+- Gameplay systems
+- Player experience
+- Mechanics
+- Progression design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / GRAPHIC DESIGN
+
+Visual communication and digital aesthetics.
+
+- Visual identity
+- Typography
+- Graphic compositions
+- Digital assets
+- Art direction
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / CREATIVE TECHNOLOGY
+
+Exploring the tools behind digital experiences.
+
+- Roblox Studio
+- Interface implementation
+- Creative workflows
+- AI-assisted workflows
+- Web experimentation
+
+</td>
+</tr>
 </table>
 
-### 03 / TOOLKIT
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ROBLOX_STUDIO-111111?style=flat-square&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHOTOSHOP-111111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/VS_CODE-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/GIT-111111?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/OLLAMA-111111?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/QWEN-111111?style=flat-square&logoColor=white" />
-</p>
-
-### 04 / PROJECTS
-
-**SIX BULLETS — 6B**
-
-An independent Roblox development studio focused on creating interactive experiences.
-
-[Explore Six Bullets](https://github.com/franceeko/Six-Bullets-Studio)
-
-**OTHER PROJECTS**
-
-- [Personal Website](https://github.com/franceeko/francez.github.io)
-- [UI Portfolio Website](https://github.com/franceeko/francez-ui-portfolio-site)
-- [GitHub Repositories](https://github.com/franceeko?tab=repositories)
-
-### 05 / GITHUB OVERVIEW
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=franceeko&show_icons=true&hide_border=true&bg_color=00000000&title_color=999999&icon_color=999999&text_color=888888&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franceeko&layout=compact&hide_border=true&bg_color=00000000&title_color=999999&text_color=888888" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=franceeko&theme=transparent&hide_border=true&ring=888888&fire=AAAAAA&currStreakLabel=999999&sideLabels=888888&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=franceeko&bg_color=00000000&color=999999&line=888888&point=FFFFFF&area=true&area_color=444444&hide_border=true" />
-</p>
-
-### 06 / CONNECT
-
-<p align="left">
-  <a href="https://github.com/franceeko">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/francezuix">
-    <img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+<br/>
 
 ---
+
+<br/>
+
+<div align="center">
+
+### 〔 03 — TOOLKIT 〕
+
+<sub>TOOLS I USE AND EXPLORE</sub>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROBLOX_STUDIO-15141C?style=for-the-badge&logo=roblox&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PHOTOSHOP-15141C?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-15141C?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/GIT-15141C?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OLLAMA-15141C?style=for-the-badge&logo=ollama&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/QWEN-15141C?style=for-the-badge&logoColor=FFFFFF" />
+</p>
+
+<br/>
+
+<div align="center">
+
+`TOOLS ARE MEANS. DESIGN IS THE RESULT.`
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 〔 04 — SELECTED PROJECTS 〕
+
+<sub>PUBLIC REPOSITORIES & CREATIVE WORK</sub>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceeko/Six-Bullets-Studio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=franceeko&repo=Six-Bullets-Studio&theme=transparent&hide_border=true&title_color=B69BCB&text_color=999999&icon_color=B69BCB" width="100%" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceeko/francez-ui-portfolio-site">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=franceeko&repo=francez-ui-portfolio-site&theme=transparent&hide_border=true&title_color=B69BCB&text_color=999999&icon_color=B69BCB" width="100%" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceeko/francez.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=franceeko&repo=francez.github.io&theme=transparent&hide_border=true&title_color=B69BCB&text_color=999999&icon_color=B69BCB" width="100%" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/franceeko/portifolio-francez">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=franceeko&repo=portifolio-francez&theme=transparent&hide_border=true&title_color=B69BCB&text_color=999999&icon_color=B69BCB" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/franceeko?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-25152D?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 〔 05 — STUDIO 〕
+
+<sub>INDEPENDENT GAME DEVELOPMENT</sub>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/franceeko/Six-Bullets-Studio">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:211525,50:35203B,100:18283C&height=110&section=header&text=SIX%20BULLETS&fontSize=34&fontColor=E9DDED&fontAlignY=45&desc=INDEPENDENT%20ROBLOX%20STUDIO&descSize=11&descColor=BCA9C7&animation=fadeIn" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <samp>6B — SIX BULLETS</samp>
+</p>
+
+Six Bullets is my independent Roblox development studio.
+
+A space dedicated to developing game projects and bringing creative concepts into interactive experiences.
+
+<p align="center">
+  <a href="https://github.com/franceeko/Six-Bullets-Studio">EXPLORE THE STUDIO ↗</a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 〔 06 — CURRENT INTERESTS 〕
+
+<sub>WHAT I'M EXPLORING</sub>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+**INTERFACES**
+
+<sub>New UI directions</sub>
+
+</td>
+<td align="center" width="33%">
+
+**EXPERIENCES**
+
+<sub>Game design</sub>
+
+</td>
+<td align="center" width="33%">
+
+**WORKFLOWS**
+
+<sub>Creative technology</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   01  /  Exploring interface design                 │
+│   02  /  Developing Roblox projects                 │
+│   03  /  Refining visual identities                 │
+│   04  /  Experimenting with creative tools          │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 〔 07 — GITHUB PROFILE 〕
+
+<sub>PUBLIC REPOSITORY OVERVIEW</sub>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=franceeko&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000&title_color=B69BCB&icon_color=9676B2&text_color=999999&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franceeko&layout=compact&hide_border=true&bg_color=00000000&title_color=B69BCB&text_color=999999&langs_count=8" />
+</p>
+
+<p align="center">
+  <sub>Statistics are generated dynamically from publicly available repository data.</sub>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 〔 08 — LET'S CONNECT 〕
+
+<sub>OPEN TO CREATIVE CONNECTIONS</sub>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/franceeko">
+    <img src="https://img.shields.io/badge/GITHUB-17141C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/francezuix">
+    <img src="https://img.shields.io/badge/DISCORD-17141C?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
+  </a>
+</p>
+
+<p align="center">
+  <samp>FRANCEZ — @francezuix</samp>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10101A,35:25152D,70:40213F,100:17243A&height=130&section=footer&animation=fadeIn" />
+</p>
 
 <p align="center">
   <samp>FRANCEZ® — INDEPENDENT CREATIVE</samp>
-  <br/><br/>
-  <sub>DESIGN IS NOT JUST HOW IT LOOKS. IT'S HOW IT WORKS.</sub>
-  <br/><br/>
-  <sub>© 2026 · ALL RIGHTS RESERVED.</sub>
 </p>
+
+<p align="center">
+  <sub>DESIGN IS NOT JUST HOW IT LOOKS. IT'S HOW IT WORKS.</sub>
+</p>
+
+<p align="center">
+  <sub>© 2026 — ALL RIGHTS RESERVED.</sub>
+</p>
+
+<!-- ================================================== -->
+<!--              END OF FRANCEZ PROFILE                -->
+<!-- ================================================== -->
