@@ -1,32 +1,70 @@
-# Hi, I'm Francez 👋
+```text
+███████╗ ██████╗  █████╗ ███╗   ██╗ ██████╗███████╗███████╗
+██╔════╝██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔════╝╚════██║
+█████╗  ██████╔╝███████║██╔██╗ ██║██║     █████╗  ▄███╔╝
+██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██║     ██╔══╝  ██╔══╝
+██║     ██║  ██║██║  ██║██║ ╚████║╚██████╗███████╗███████╗
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚══════╝
+```
 
-**UI/UX Designer · Game Designer · Roblox Developer**
+<p align="center">
+  <samp>DESIGN · DEVELOPMENT · CREATIVE DIRECTION</samp>
+</p>
 
-I'm a Brazilian creator focused on building interfaces, experiences and visual identities for games.
+<p align="center">
+  Building digital experiences through design, technology and experimentation.
+</p>
 
-### About Me
-- 🎨 UI/UX Designer focused on Roblox experiences
-- 🎮 Working with game design and development
-- 🖥️ Experienced with Photoshop and Roblox Studio
-- 🚀 Always exploring new ideas, tools and creative workflows
-- 🏢 Founder of **Six Bullets (6B)**
+---
 
-### Tools & Technologies
+### / 01 — PROFILE
 
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=flat&logo=roblox&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=flat&logo=adobephotoshop&logoColor=31A8FF)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+I'm Francez, a Brazilian creative focused on digital interfaces, game design and interactive experiences.
 
-### Connect
+Currently building things within the Roblox ecosystem, combining visual design, user experience and creative development.
 
-[![Discord](https://img.shields.io/badge/Discord-francezuix-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/francezuix)
-[![GitHub](https://img.shields.io/badge/GitHub-franceeko-181717?style=flat&logo=github&logoColor=white)](https://github.com/franceeko)
+- **Studio:** Six Bullets / 6B
+- **Focus:** UI/UX Design, Game Design, Roblox
+- **Based in:** Brazil
+
+### / 02 — EXPERTISE
+
+| FIELD | FOCUS |
+|:--|:--|
+| Interface Design | UI Systems · UX · Visual Hierarchy |
+| Game Design | Mechanics · Experience Design |
+| Graphic Design | Visual Identity · Digital Graphics |
+| Development | Roblox Studio · Luau · Web |
+
+### / 03 — TOOLKIT
+
+<p>
+  <img src="https://img.shields.io/badge/ROBLOX_STUDIO-111111?style=flat-square&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHOTOSHOP-111111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/LUAU-111111?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/GIT-111111?style=flat-square&logo=git&logoColor=F05032" />
+</p>
+
+### / 04 — SELECTED WORK
+
+**Six Bullets** — Independent Roblox development studio.
+
+Working on interactive experiences, visual systems and game projects.
+
+### / 05 — CONTACT
+
+<p>
+  <a href="https://github.com/franceeko">GITHUB</a>
+  &nbsp; / &nbsp;
+  <a href="https://discord.com/users/francezuix">DISCORD</a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Designing interfaces. Building experiences. Creating things that matter.</i>
+  <samp>FRANCEZ® — INDEPENDENT CREATIVE</samp>
+  <br/>
+  <sub>© 2026 · ALL RIGHTS RESERVED</sub>
 </p>
